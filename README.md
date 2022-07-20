@@ -21,3 +21,6 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by [Connor Kelly]
+
+
+### ©️2019 Run Buddy, Inc
