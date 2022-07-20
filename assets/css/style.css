@@ -34,6 +34,14 @@ body {
     margin: 7px 0;
   }
 
+  header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+  }
+
 header nav ul li {
   display: inline;
 }
@@ -41,7 +49,7 @@ header nav ul li {
 header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
-    font-size: 22px;
+    font-size: 1.55vw;
   }
 
   header h1 {
@@ -89,7 +97,7 @@ header nav ul li a {
   }
 
   .hero-form {
-    border: 3px solid #024e76;
+   border: 3px solid #024e76;
   background-color: #fce138;
   padding: 20px;
   width: 500px;
